@@ -33,16 +33,16 @@ The platform aims to destigmatize seeking psychological help and streamline the 
 
 ---
 
-## 2. Authors (Group 4)
+## 2. Project Team & Roles (Group 4)
 
-| Student ID | Name |
-| :--- | :--- |
-| **222387688** | Sanele Mabuza |
-| **222541652** | Karabo Makofane |
-| **222518863** | Lufuno Ramuhashi |
-| **220834725** | Siyanda Khanyile |
-| **222362723** | Rito Hlungwani |
-| **222428554** | Sydwel Nhlambo |
+| Student ID | Name | Primary Role(s) |
+| :--- | :--- | :--- |
+| **222387688** | Sanele Mabuza | Project Lead / Full Stack Developer |
+| **222541652** | Karabo Makofane | Frontend Developer / UI Designer |
+| **222518863** | Siyanda Khanyile | Backend Developer / Database Admin |
+| **220834725** | Lufuno Ramuhashi | Quality Assurance / Documentation |
+| **222362723** | Rito Hlungwani | Frontend Developer |
+| **222428554** | Sydwell Nhlambo | System Analyst / Tester |
 
 ---
 
