@@ -16,7 +16,6 @@
 - [4. Technology Stack](#4-technology-stack)
 - [5. Installation & Setup](#5-installation--setup)
 - [6. Usage](#6-usage)
-- [7. License](#7-license)
 
 ---
 
