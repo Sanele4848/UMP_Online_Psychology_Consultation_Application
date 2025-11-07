@@ -4,8 +4,6 @@
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
 ![Score](https://img.shields.io/badge/Final_Mark-79%25-blue?style=flat-square)
-![Version](https://img.shields.io/badge/Version-1.0.0-orange?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 > **Bridging the gap between University of Mpumalanga students and wellness services.**
 
