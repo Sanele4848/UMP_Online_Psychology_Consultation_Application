@@ -32,7 +32,7 @@ The platform aims to destigmatize seeking psychological help and streamline the 
 
 ## 2. Project Team & Roles (Group 4)
 
-| Student ID | Name | Primary Role(s) |
+| Student Number | Name | Primary Role(s) |
 | :--- | :--- | :--- |
 | **222387688** | Sanele Mabuza | Project Lead / Full Stack Developer |
 | **222541652** | Karabo Makofane | Frontend Developer / UI Designer |
